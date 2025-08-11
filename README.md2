@@ -1,0 +1,44 @@
+CORNELIUS-SNOWHYT's African Currency Converter (C++)
+
+================================================
+  CORNELIUS-SNOWHYT'S African Currency Converter
+================================================
+
+Enter amount in USD: 2500.456
+Enter country name or currency code (e.g., Ghana or GHC): Tunisia
+2500.46 USD = 7226.32 in Tunisia
+
+Would you like to convert another amount (y/n): n
+
+Thank you for using CORNELIUS-SNOWHYT's currency converter.Goodbye!
+snow@snow-Lenovo-IdeaPad-U410-Touch:~/Documents$ 
+
+How to run 
+**Save code as currency_converter.cpp
+**Compile using:
+'''bash
+g++ currency_converter.cpp -o currency_converter
+RUN THE PROGRAM
+./currency_converter
+
+Invalid Input
+================================================
+  CORNELIUS-SNOWHYT'S African Currency Converter
+================================================
+
+Enter amount in USD: 500
+Enter country name or currency code (e.g., Ghana or GHC): xyz
+Currency or country not supported.
+
+Would you like to convert another amount (y/n): 
+
+Skills Demonstrated
+**C++ console programming
+**Using map for key-value storage
+**Input validation
+**Basic arithmetic
+
+License
+**This project is open-source.
+Fell free to use ,modify and share with credit to CORNELIUS-SNOWHYT.
+
